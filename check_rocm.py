@@ -1,9 +1,6 @@
 import torch
 
 
-
-
-
 def main():
     print("Hello from breeze-asr-25!")
     print(f"CUDA is available: {torch.cuda.is_available()}")
